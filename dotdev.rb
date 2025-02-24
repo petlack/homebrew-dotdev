@@ -1,8 +1,8 @@
 class Dotdev < Formula
   desc "Lightweight Web server for static HTML with built-in live reload written in Go."
   homepage "https://github.com/petlack/dotdev"
-  url "https://github.com/petlack/dotdev/archive/refs/tags/v0.0.1.20250224.01.tar.gz"
-  sha256 "cb74122d8a8c4f60c30ed194026afb64f8ffcb6d5b179b05d302601f6107ea40"
+  url "https://github.com/petlack/dotdev/archive/refs/tags/v0.0.1.20250224.02.tar.gz"
+  sha256 "1771576c3a14bdda03b1219d73995a0535a0688b63c8bb130ca7e4be3bafca4b"
   license "GPL-3.0-or-later"
 
   depends_on "go" => :build
