@@ -12,6 +12,6 @@ class Dotdev < Formula
   end
 
   test do
-    assert_match "0.0.1.20250224.03", shell_output("#{bin}/dotdev --version")
+    assert_match "0.0.1.20250611.01", shell_output("#{bin}/dotdev --version")
   end
 end
